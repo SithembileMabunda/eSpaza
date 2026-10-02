@@ -28,3 +28,7 @@
 - https://en.wikipedia.org/wiki/Web_application_firewall
 - https://en.wikipedia.org/wiki/PDF
 - https://en.wikipedia.org/wiki/Object-oriented_programming
+- https://en.wikipedia.org/wiki/Search_engine
+- https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo
+- https://en.wikipedia.org/wiki/Markov_chain
+- https://en.wikipedia.org/wiki/Trie
