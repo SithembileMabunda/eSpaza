@@ -1,4 +1,4 @@
-# E-Commerce
+# eSpaza
 
 - https://en.wikipedia.org/wiki/E-commerce
 - https://www.python.org/
